@@ -1,0 +1,27 @@
+{
+  "name": "sass-md-colors",
+  "version": "1.0.0",
+  "description": "The Material Design Color Palette as Sass variables.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/sass-md-colors.git"
+  },
+  "keywords": [
+    "sass",
+    "material",
+    "design",
+    "color",
+    "palette",
+    "colors",
+    "variables"
+  ],
+  "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themekit/sass-md-colors/issues"
+  },
+  "homepage": "https://github.com/themekit/sass-md-colors#readme"
+}
